@@ -1,0 +1,27 @@
+
+^
+.src/main/java/com/talent/json/DownLoadApi.java,7/5/75ff7dc84cb93d5a49d27a4edd6cb689d35cfea8
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+`
+0src/main/java/com/talent/model/vo/StudentVo.java,e/2/e28bcdbd00fc86e2e331ba41e669fa0349f84e10
+9
+	readme.md,2/7/275d783e298228506068436512433d343feb52aa
+b
+2src/main/java/com/talent/annotation/TimeFiled.java,a/c/ac97e4c6bd2da4bac36b4cb3965a550da050d018
+d
+4src/main/java/com/talent/annotation/SpecialTime.java,3/f/3f1ca24830458cafd2063722fe5641ffa4eaa186
+`
+0src/main/java/com/talent/enums/DateTimeEnum.java,1/f/1fc5a60115727fd6fe10b1084db69d754b75f412
+[
++src/main/java/com/talent/model/Student.java,6/6/66e862c7bfd259a23972df742a3edd2f9a1e7a75
+Y
+)src/main/java/com/talent/logic/Empty.java,3/7/37084a6a25d024f0bdb71669cddf9781c141058b
+h
+8src/main/java/com/talent/logic/convert/DtoVoConvert.java,5/1/51e0ffc80617c6d4e7b550bceda925b73fdcf4b2
+T
+$src/test/com/talent/StudentTest.java,f/6/f61cc2038ec755c802bf8cf22bb22210f52039e2
+[
++src/main/java/com/talent/util/DateUtil.java,8/c/8cdf2e2f6179186d47a3302e7441bc756d7bf252
+\
+,src/main/java/com/talent/util/BeanUtils.java,1/4/147f5d8ba398f8ae7db8bdd37a56cd8d65d13f73
