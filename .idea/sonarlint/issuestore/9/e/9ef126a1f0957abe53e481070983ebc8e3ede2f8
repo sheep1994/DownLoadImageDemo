@@ -1,0 +1,11 @@
+
+Gsquid:S1148Å"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¯‹¸¨-
+Fsquid:S1148@"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8çÖÌ¶¨-
+osquid:S2095R"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ýê”Ê8äù´¸¨-
+osquid:S20952"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(ýê”Ê8äù´¸¨-
+dsquid:S2147"ECombine this catch with the one at line 139, which has the same body.(ï­£Ä8¡êÐ¸¨-
+Gsquid:S1148²"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ó©†¹¨-
+Fsquid:S1148]"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¯‹¸¨-
+dsquid:S1192>"FDefine a constant instead of duplicating this literal "utf-8" 5 times.(Èúçä8«ÐŽ¸¨-
+Gsquid:S1148Œ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¡êÐ¸¨-
+Gsquid:S1148Ž"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ŠÑÍ¸¨-

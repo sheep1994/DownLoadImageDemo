@@ -1,0 +1,9 @@
+
+[
+squid:S106R"9Replace this use of System.out or System.err by a logger.(ŸƒÖÀûÿÿÿÿ8¦¢º¨-
+Isquid:S1168 "+Return an empty collection instead of null.(¥¹ï8õı¹¨-
+[
+squid:S106T"9Replace this use of System.out or System.err by a logger.(„½ÜÑşÿÿÿÿ8¿÷Áº¨-
+[
+squid:S106P"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8¦¢º¨-
+‚squid:S1149C"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(¨âàøÿÿÿÿ8Ñ˜¿º¨-

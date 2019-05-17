@@ -1,0 +1,17 @@
+
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(ù¤éû8ÓÂÃ¹¨-
+‡squid:S1157æ"cReplace these toUpperCase()/toLowerCase() and equals() calls with a single equalsIgnoreCase() call.(”ìöîüÿÿÿÿ8Á­¿¹¨-
+hsquid:S2259–"DA "NullPointerException" could be thrown; "idCard" is nullable here.(…×ºôøÿÿÿÿ8Á­¿¹¨-
+dsquid:S2259½"FA "NullPointerException" could be thrown; "cardTo18" is nullable here.(Ã§<8Á­¿¹¨-
+csquid:S2259ª"DA "NullPointerException" could be thrown; "idCard" is nullable here.(ıà÷†8Á­¿¹¨-
+csquid:S2259‚"DA "NullPointerException" could be thrown; "idCard" is nullable here.(ëìöĞ8Á­¿¹¨-
+Gsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Á­¿¹¨-
+Gsquid:S1148õ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Á­¿¹¨-
+Gsquid:S1148ı"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Á­¿¹¨-
+esquid:S2259×"FA "NullPointerException" could be thrown; "cardTo18" is nullable here.(£ÏÅ§8Á­¿¹¨-
+Esquid:S1168«"&Return an empty array instead of null.(¥¹ï8Á­¿¹¨-
+Esquid:S1168‘"&Return an empty array instead of null.(¥¹ï8Á­¿¹¨-
+esquid:S1192Ÿ"FDefine a constant instead of duplicating this literal "false" 3 times.(È«»8Á­¿¹¨-
+hsquid:S2259î"DA "NullPointerException" could be thrown; "idCard" is nullable here.(šÉÊáüÿÿÿÿ8Á­¿¹¨-
+Ssquid:S1066Ö"/Merge this if statement with the enclosing one.(ƒÊ·şÿÿÿÿ8Á­¿¹¨-
